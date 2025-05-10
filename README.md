@@ -1,3 +1,1 @@
 ﻿# 🎬 Movie Recommendation System
-A personalized movie recommendation engine using collaborative filtering and content-based filtering. Built with Python and Streamlit, this project analyzes user preferences to suggest movies they'll love.
-📊 Powered by pandas, scikit-learn, and TMDB dataset.
